@@ -45,7 +45,7 @@ const DishDetailsScreen = () => {
       </View>
       <View style={styles.button}>
         <Text style={styles.buttonText}>
-          Add {quantity} into basket (Rs {getTotal()})
+          Add {quantity} into basket &#8226; (Rs {getTotal()})
         </Text>
       </View>
     </View>
@@ -84,7 +84,7 @@ const styles = StyleSheet.create({
   },
   button: {
     backgroundColor: "black",
-    margin: "auto",
+    marginTop: "auto",
     padding: 20,
     alignItems: "center",
   },
