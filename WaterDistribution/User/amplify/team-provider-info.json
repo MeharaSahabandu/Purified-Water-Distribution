@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-waterdistribution-staging-6cd51-authRole",
+      "UnauthRoleArn": "arn:aws:iam::058264185790:role/amplify-waterdistribution-staging-6cd51-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::058264185790:role/amplify-waterdistribution-staging-6cd51-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-waterdistribution-staging-6cd51-deployment",
+      "UnauthRoleName": "amplify-waterdistribution-staging-6cd51-unauthRole",
+      "StackName": "amplify-waterdistribution-staging-6cd51",
+      "StackId": "arn:aws:cloudformation:eu-north-1:058264185790:stack/amplify-waterdistribution-staging-6cd51/2d10c670-02f2-11ef-b1d0-0aedd34c3d13",
+      "AmplifyAppId": "d2nntqlo5wmk9q"
+    },
+    "categories": {
+      "auth": {
+        "WaterDistribution": {}
+      }
+    }
+  }
+}
